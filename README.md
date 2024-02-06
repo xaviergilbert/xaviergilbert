@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://img.shields.io/badge/-xaviergilbert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-gilbert-de-vautibault-10335b51/"><img src="https://img.shields.io/badge/-xaviergilbert-blue?style=flat&logo=Linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/xavier-gilbert-de-vautibault-10335b51/"><img src="https://img.shields.io/badge/-xaviergilbert-blue?style=flat&logo=Linkedin&logoColor=white">
 </div>
 
 ---
