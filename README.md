@@ -33,22 +33,11 @@ Here are some ideas to get you started:
 ---
 
 ### About Me :
-I am a french data-scientist/engineer.
+I am a french quant developper.
 
-- I’m currently working as a data-scientist/engineer at [@crunchDAO](https://github.com/crunchdao) since 2022.
-
-
-
----
-
-### My Contributions :
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xaviergilbert&theme=dark&hide_border=true&border_radius=100&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-</div>
+- I’m currently working as a quant developper at Crunch Capital since 2022.
 
 
-<!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xaviergilbert&show_icons=true&include_all_commits=true&count_private=true" alt="caceresenzo" />  -->
 
 ---
 
