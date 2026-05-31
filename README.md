@@ -36,15 +36,3 @@ Here are some ideas to get you started:
 I am a french quant developper.
 
 - I’m currently working as a quant developper at Crunch Capital since 2022.
-
-
-
----
-
-### Public repositories languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviergilbert&layout=compact&theme=vision-friendly-dark"
-</div>
-
-
